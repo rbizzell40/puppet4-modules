@@ -1,0 +1,5 @@
+---
+role:
+  - role_web
+
+web::index_content: '<H1> WELCOME - INTERNAL HTTPD SERVER</H1>'
